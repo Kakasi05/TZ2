@@ -63,7 +63,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Медиа-запросы для адаптивности */
 @media (max-width: 600px) {
     h1 {
         font-size: 2em;
